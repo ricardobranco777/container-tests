@@ -28,3 +28,4 @@ The output will be Junit XML which is the industry standard for test log collect
 - Distro-agnostic mechanism to specify a list of expected failures to ignore.
 - Just clone and run.  No need to package it as RPM.
 - Customer & user-centric UI.
+- Have an extras directory to run extra tests (like regression tests in openQA that are not upstreamed).
