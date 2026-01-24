@@ -29,3 +29,4 @@ The output will be Junit XML which is the industry standard for test log collect
 - Just clone and run.  No need to package it as RPM.
 - Customer & user-centric UI.
 - Have an extras directory to run extra tests (like regression tests in openQA that are not upstreamed).
+- Configurable restart of flaky tests?
