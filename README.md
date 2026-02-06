@@ -14,7 +14,7 @@ Implement a unified way to run and collect logs from the testsuites available in
 - [moby](https://github.com/moby/moby)
 - [netavark](https://github.com/containers/netavark)
 - [podman](https://github.com/containers/podman)
-- [rootlesskit](https://github.com/rootless-containers/rootlesskit)
+- [podman-py](https://github.com/containers/podman-py)
 - [runc](https://github.com/opencontainers/runc)
 - [skopeo](https://github.com/containers/skopeo)
 - [umoci](https://github.com/opencontainers/umoci)
@@ -30,3 +30,4 @@ The output will be Junit XML which is the industry standard for test log collect
 - Customer & user-centric UI.
 - Have an extras directory to run extra tests (like regression tests in openQA that are not upstreamed).
 - Configurable restart of flaky tests?
+- Unified way to run individual tests.
